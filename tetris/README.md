@@ -1,6 +1,5 @@
 # Tetris
 A nostalgic game which will take you back to childhood drowning you in nostalgia.
-
 [Visit Website](https://lancerlotgames.github.io/LancerLot/).
 
 ## Screenshots
@@ -21,6 +20,6 @@ A nostalgic game which will take you back to childhood drowning you in nostalgia
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200px" />
 </a>
 
-* [Linux](Tetris.x86_64)
-* [Windows](Tetrir.exe)
-* [Mac](Tetris.dmg)
+* [Linux x86_64](Tetris.x86_64)
+* [Windows x86_64](Tetrir.exe)
+* [Mac arm64](Tetris.dmg)
